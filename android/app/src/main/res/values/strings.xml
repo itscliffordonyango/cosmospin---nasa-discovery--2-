@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Cosmospin</string>
+    <string name="title_activity_main">Cosmospin</string>
+    <string name="package_name">com.clifford.cosmospin</string>
+    <string name="custom_url_scheme">com.clifford.cosmospin</string>
+</resources>

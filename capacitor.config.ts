@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.clifford.nasaapod',
-  appName: 'https://itscliffordonyango.github.io/Nasa/',
+  appId: 'com.clifford.cosmospin',
+  appName: 'Cosmospin',
   webDir: 'dist'
 };
 
